@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: green;
+	font-size: 5em;
+}
+
+body {
+	background-color: beige;
+}
+
+div {
+	font-size: 3em;
+	color: red;
+}
+
+.animate {
+	font: arial;
+	font-weight: bold;
+}
+
+p {
+	text-align: center;
+	font-size: 2em;
+	color: blue;
+}
